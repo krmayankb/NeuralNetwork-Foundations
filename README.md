@@ -1,4 +1,4 @@
-# deeplearning_basics
+# DeepLearning-Concepts-Code
 Work in progress. This repository is aimed to help student learn implementation of basics concepts of deep learning in python and PyTorch. 
 
 We are open to collaboration. Please reach out to krmayankb@gmail.com if you want to help in setting up this repository structure.
