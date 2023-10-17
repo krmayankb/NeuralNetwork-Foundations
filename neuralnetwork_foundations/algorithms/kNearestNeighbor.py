@@ -56,6 +56,6 @@ if __name__ == "__main__":
     x_test = np.random.randn(10, 2)
     y_test = np.random.randint(0, 5, 10)
 
-    knn = KNearstNeighbors(n_neighbors=5)
+    knn = kNearstNeighbors(n_neighbors=5)
     knn.fit(x_train, y_train)
     knn.predict(x_test)
