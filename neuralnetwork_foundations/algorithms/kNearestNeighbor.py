@@ -1,6 +1,6 @@
 import numpy as np 
 
-class KNearstNeighbors(): 
+class kNearstNeighbors(): 
     def __init__(self, n_neighbors=5, dist_metric="euclidean"):
         self.n_neighbors = n_neighbors
         self.dist_metric = dist_metric
